@@ -10,7 +10,7 @@ package ubu.gii.dass.refactoring;
  * @see java.io.File
  * 
  */
-
+// Comentari per testejar git
 public class Movie {
 	public static final int CHILDRENS = 2;
 	public static final int REGULAR = 0;
