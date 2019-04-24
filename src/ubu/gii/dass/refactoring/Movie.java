@@ -18,6 +18,7 @@ public class Movie {
 
 	private String _title;
 	private int _priceCode;
+	private String varTest;
 
 	public Movie(String title, int priceCode) {
 		_title = title;
